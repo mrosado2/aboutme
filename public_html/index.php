@@ -51,18 +51,18 @@
 
 		<title>Branding</title>
 		<style type="text/css">
-			body{
-				background-image: url(..public_html/images/cnm_ingenuity_sandias.png);
-			}
+			<body>
+
+
 		</style>
 	</head>
-	<body class="sfooter">
-		<div class="sfooter-content"></div>
+
 
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-offset-2 col-sm-8">
+				<div class="col-sm-offset-3 col-sm-8">
 					<h1>ingenuity</h1>
+					<p>This is a test</p>
 					<form>
 						<div class="form-group">
 							<label for="exampleInputUsername">Username</label>
